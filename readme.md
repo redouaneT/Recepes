@@ -1,6 +1,6 @@
 Description du projet :
 
-RCETES est une application web développée comme une application web monopage (Single Page Application). Il s'agit d'une application développée avec Node.js et Express, qui utilise également les bibliothèques request et dotenv. RCETES propose trois pages principales, toutes accessibles depuis le menu de navigation en haut de la page.
+RECEPES est une application web développée comme une application web monopage (Single Page Application). Il s'agit d'une application développée avec Node.js et Express, qui utilise également les bibliothèques request et dotenv. RCETES propose trois pages principales, toutes accessibles depuis le menu de navigation en haut de la page.
 
 Navigation:
 
