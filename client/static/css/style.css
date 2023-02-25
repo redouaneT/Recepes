@@ -1,0 +1,39 @@
+.container {
+	display: flex;
+	flex-direction: row-reverse;
+	gap: 60px;
+}
+
+/* .aside iframe {
+	width: 400px;
+	height: 300px;
+} */
+.hover:hover {
+	background-color: #dedede;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	transition: all 0.3s ease;
+}
+.icon {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	border-radius: 50%;
+}
+
+.info {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 1.2rem;
+	color: #6c757d;
+}
+svg > path {
+	z-index: -999;
+}
+.container-fluid.recepe {
+	max-width: 80%;
+	margin: 100px auto;
+}
